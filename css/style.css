@@ -5,6 +5,8 @@ body {
 .black{
     background-color: black;
     padding:10px;
+    margin-top:-10px;
+    margin-bottom:-10px;
 }
 .nav-bg {
     background-color: black;
@@ -154,6 +156,83 @@ body {
     border:none;
 
 }
+.footer{
+    background-color: rgb(21, 21, 21);
+    display:flex;
+    justify-content: space-between;
+    padding:40px;
+    align-items: center;
+    color:rgba(255, 255, 255, 0.842);
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(164, 157, 157);
+}
+h2{
+    text-decoration: underline;
+}
+.bi{
+    text-decoration: none;
+    color: green;
+}
+.bi-braces{
+    color:rgb(148, 33, 52);
+}
+.bi-cart4{
+    color:yellow;
+}
+.bi-google{
+    color:blue
+}
+.bi-apple{
+    color:red;
+}
+.bi-person-circle{
+    color:black;
+}
+.bi-person-circle{
+   color:coral;
+}
+.bi-telephone-fill{
+    color:coral;
+}
+.bi-phone-vibrate{
+    color:aqua;
+}
+.bi-heart-fill{
+    color:coral;
+}
+.bi-heart-pulse-fill{
+    color:coral;
+}
+.bi-geo-alt-fill{
+    color:coral;
+}
+.bi-twitter{
+    color:blue;
+}
+.bi-linkedin{
+    color:black;
+}
+.bi-instagram{
+    color:rgb(185, 16, 72);
+}
+.bi-facebook{
+    color:blueviolet;
+}
+.bi-house-door-fill{
+    color:coral;
+}
+.bi-file-person{
+     color:coral;
+}
+.bi-box-arrow-in-right{
+    color:coral;
+}
+
+
+
 
 /* ------------media---------------- */
 @media (max-width:576px){
