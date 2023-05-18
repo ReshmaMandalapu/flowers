@@ -172,10 +172,6 @@ a{
 h2{
     text-decoration: underline;
 }
-.bi{
-    text-decoration: none;
-    color: green;
-}
 .bi-braces{
     color:rgb(148, 33, 52);
 }
@@ -263,5 +259,11 @@ h2{
     }
     .searchmb{
         margin-top:20px;
+    }
+    .footer{
+        width:auto;
+        flex-wrap:wrap;
+        padding-left:25%;
+
     }
 }
